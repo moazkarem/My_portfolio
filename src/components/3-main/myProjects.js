@@ -4,7 +4,7 @@ export const myProjects = [
     category: ["react"],
     imgPath: "./images/zline.png",
     description:
-      "A full-featured e-commerce web application showcasing advanced frontend development skills , t includes two separate interfaces: an admin dashboard for store management and a user website for shopping and account handling",
+      "A full-featured e-commerce web application showcasing advanced frontend development skills ",
     demo: "https://zline-store.netlify.app/",
     repo: "https://github.com/moazkarem/E-commerse-phones",
   },

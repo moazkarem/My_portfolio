@@ -15,7 +15,7 @@ const Hero = () => {
             initial={{ transform: "scale(0)" }}
             animate={{ transform: "scale(1.1)" }}
             transition={{ damping: 2, type: "spring", stiffness: 100 }}
-            src="./me.jpeg"
+            src="./me.jpg"
             className="avatar"
             alt=""
           />
@@ -29,7 +29,7 @@ const Hero = () => {
           className="title"
         >
           Moaz Karem , Computer sciense graduate , software engineer , front-end
-          develober
+          developer
         </motion.h1>
 
         <p className="sub-title">
