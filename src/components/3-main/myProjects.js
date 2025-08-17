@@ -1,5 +1,14 @@
 export const myProjects = [
   {
+    projectTitle: "Zline Store ( Full Stack E-Commercs )",
+    category: ["react"],
+    imgPath: "./images/zline.png",
+    description:
+      "A full-featured e-commerce web application showcasing advanced frontend development skills , t includes two separate interfaces: an admin dashboard for store management and a user website for shopping and account handling",
+    demo: "https://zline-store.netlify.app/",
+    repo: "https://github.com/moazkarem/E-commerse-phones",
+  },
+  {
     projectTitle: "Hospital System",
     category: ["react"],
     imgPath: "./images/005.jpg",
